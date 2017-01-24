@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "name": "ksjogo/t3platformsh",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "keywords": [
+    ],
+    "authors": [
+    ],
+    "license": "GPL-3.0",
+    "require": {
+        "php": ">=7.0",
+        "typo3/cms": ">=8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ksjogo\\T3platformsh\\": "Classes/"
+        }
+    }
+}
